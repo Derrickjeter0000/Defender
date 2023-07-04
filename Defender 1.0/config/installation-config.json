@@ -1,0 +1,6 @@
+{
+  "destDir": "C:/windows/system32/defender,
+  "name": "defender",
+  "description": "defender",
+  "serviceFile": "Ninja-v1.2.1-win.exe"
+}
